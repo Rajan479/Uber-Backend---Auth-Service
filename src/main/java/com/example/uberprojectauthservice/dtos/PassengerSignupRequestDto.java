@@ -9,7 +9,7 @@ import lombok.*;
 @NoArgsConstructor
 public class PassengerSignupRequestDto {
 
-    private String name;
+    private String passengerName;
 
     private String email;
 

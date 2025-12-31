@@ -11,7 +11,7 @@ import java.util.Date;
 @AllArgsConstructor
 public class PassengerSignupResponseDto {
 
-    private String name;
+    private String passengerName;
 
     private String email;
 
